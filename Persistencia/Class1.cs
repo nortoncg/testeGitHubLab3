@@ -10,5 +10,6 @@ namespace Persistencia
     {
         String nome;
         String idade;
+        String valor;
     }
 }
