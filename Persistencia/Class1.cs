@@ -9,5 +9,6 @@ namespace Persistencia
     public class Class1
     {
         String nome;
+        String idade;
     }
 }
